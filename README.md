@@ -7,7 +7,7 @@ Commits or changes made in compared to the original file:
 * Added alt attributes to images to allow for accesibilty
 * Cleaned up the code and made it more readable and spaced accordingly
 
-Link for the site is https://github.com/khadra123/Horiseon-Refractor.
+Link for the site is https://khadra123.github.io/Horiseon-Refractor/.
 
 Below is a screenshot of the final website:
 ![Horiseon website screenshot](https://user-images.githubusercontent.com/25781705/109444197-aadffe00-7a0a-11eb-96af-9e5baa1d0c94.png)
